@@ -16,3 +16,9 @@ For the 2018 DC Offsite Lab
 Carrie's Edit *this will be italics*  **this will be bold** 
 
 ### Have a great day.
+
+### Change by JG
+
+*Second change by JG*
+
+# Third change by JG
