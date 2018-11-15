@@ -1,7 +1,7 @@
 # dcoffsite
 For the 2018 DC Offsite Lab
 
-### Hello World from DC offsite
+### Hello World from DC offsite (again)
 
 ![](https://raw.githubusercontent.com/hearsttv/dcoffsite/master/unicorn.gif)
 
