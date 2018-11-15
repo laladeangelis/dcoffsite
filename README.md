@@ -1,13 +1,12 @@
 # dcoffsite
 For the 2018 DC Offsite Lab
 
-### Hello World
+### Hello World from DC offsite
 
 ![](https://raw.githubusercontent.com/hearsttv/dcoffsite/master/unicorn.gif)
 
-*italics*
-**bold**
+*italics font*
+**bold font**
 - bullet
   - sub bullet
   
-*quick change by cecilia*
